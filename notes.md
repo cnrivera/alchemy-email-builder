@@ -1,4 +1,4 @@
-# MyName Email Builder Notes
+# Noel Rivera Email Builder Notes
 
 ## General thoughts on the assessment
 
