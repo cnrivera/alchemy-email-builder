@@ -8,6 +8,8 @@ Following this, I blocked in the text and main images to match the Invision artb
 
 Colors were sampled from the PSD files in Photoshop, and image sizes for the slices were viewed the same way. Image widths were applied inline, as my research suggested this was the most appropriate way to resize the images for email.
 
+For the typography, I updated the sizes of the global line height and font size to be larger, and the font weight to be heavier, as more of the text was this size and weight, and only one section was smaller. For the smaller text, I created a new class.
+
 ## What I learned
 
 ## Challenges
