@@ -2,6 +2,12 @@
 
 ## General thoughts on the assessment
 
+I started the project by reading the Foundation for Emails documentation and setting up the project on my system. The documentation was straightforward enough, and the two additional videos I reviewed covered the basics of Inky tags and images in Foundation for Emails.
+
+Following this, I blocked in the text and main images to match the Invision artboard. I then started focusing on individual items that needed to be addressed. First, the global width of the project and adjusting the image sizes to approximate the widths on the artboard.
+
+Colors were sampled from the PSD files in Photoshop, and image sizes for the slices were viewed the same way. Image widths were applied inline, as my research suggested this was the most appropriate way to resize the images for email.
+
 ## What I learned
 
 ## Challenges
