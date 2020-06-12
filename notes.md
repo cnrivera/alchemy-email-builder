@@ -39,5 +39,6 @@ The border edges were the last elements I addressed, and they took a little time
 ## What I would do if I had more time
 
 - Further tweak the text size and spacing. 
+- Continue to work on the fonts. I recognize that something doesn't match between the artboard and my re-creation, but I haven't quite determined how to resolve it. While I did put the Vollkorn font in the global settings, I may need to do something else to fully import it for use, but I was unable to find specific documentation for this.
 - Research whether there are additional ways to streamline the code I've written. 
 - Create partials for this design. Given that none of the elements were precise duplicates, I chose not to go down that path. But with more time, I might experiment with creating partials for some of the blocks, such as the About Us and the header/footer, as they could potentially be used in future projects.
